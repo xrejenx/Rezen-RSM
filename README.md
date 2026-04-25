@@ -18,4 +18,4 @@ A modpack designed to make survival gameplay more immersive and challenging.
 - **Minimum RAM**: 4GB
 - **Recommended RAM**: 6GB or more
 
-Welcome to **RezenSurvivalModpack**, where survival gets real.   
+Welcome to **RezenSurvivalModpack**, Old days survivals and Quality of lifes. 
